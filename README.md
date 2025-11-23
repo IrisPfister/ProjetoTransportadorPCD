@@ -126,7 +126,7 @@ Felipe Neres Vieira
 Gabriel Tavares Vieira da Silva  
 Gustavo Nascimento  
 Guilherme dos Santos Matos  
-Iris Pfister Pascoal 💛 (euu)
+Iris Pfister Pascoal 💛
 Natália Santos Hernandez Rincão  
 Victor Leandro da Silva
 
