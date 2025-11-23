@@ -12,9 +12,9 @@
 
 ## 🇧🇷 Sobre o Projeto
 
-Este projeto apresenta um sistema automatizado capaz de transportar cadeirantes entre diferentes níveis de escadas, garantindo **acessibilidade, autonomia, segurança e inclusão social** em locais onde a instalação de elevadores tradicionais não é possível devido à limitação de espaço físico.
+Nosso projeto apresenta um sistema automatizado capaz de transportar cadeirantes entre diferentes níveis de escadas, garantindo **acessibilidade, autonomia, segurança e inclusão social** em locais onde a instalação de elevadores tradicionais não é possível devido à limitação de espaço físico.
 
-O protótipo foi desenvolvido utilizando **linguagem C**, **PIC18F4550**, componentes eletromecânicos, simulação no **Proteus** e estrutura física em **MDF com materiais reciclados** — reforçando também a preocupação ambiental e sustentável.
+O protótipo foi desenvolvido utilizando **linguagem C**, **PIC18F4550**, componentes eletromecânicos, simulação no **Proteus** e estrutura física em **MDF com materiais reciclados**, reforçando também a preocupação ambiental e sustentável.
 
 > Projeto desenvolvido para fins acadêmicos na **Universidade Cidade de São Paulo — UNICID, 2025**, para as disciplinas de Engenharia de Software e Técnicas de Desenvolvimento de Algoritmos.
 
