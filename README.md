@@ -126,7 +126,7 @@ Felipe Neres Vieira
 Gabriel Tavares Vieira da Silva  
 Gustavo Nascimento  
 Guilherme dos Santos Matos  
-Iris Pfister Pascoal 💛  
+Iris Pfister Pascoal 💛  (euu)
 Natália Santos Hernandez Rincão  
 Victor Leandro da Silva
 
@@ -145,7 +145,7 @@ Créditos obrigatórios à equipe original.
 
 ## 🌍 Mensagem Final
 
-Acessibilidade não é luxo — é **direito, dignidade e cidadania**.
+Acessibilidade não é luxo, é **direito, dignidade e cidadania!**.
 
 ---
 
@@ -274,4 +274,4 @@ Credit must be given to the original team.
 
 ## 🌍 Final Note
 
-Accessibility is not a privilege — it is **a right, dignity, and citizenship**.
+Accessibility is not a privilege, it is **a right, dignity, and citizenship!**.
