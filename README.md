@@ -120,13 +120,14 @@ Grande parte da mecânica foi reaproveitada de **impressoras descartadas**, redu
 
 UNICID — Curso de ADS, 2025
 
-Anna Júlia de Albuquerque Martins  
-Ellen Mayumi Borges  
-Felipe Neres Vieira  
-Gabriel Tavares Vieira da Silva  
-Gustavo Nascimento  
-Guilherme dos Santos Matos  
-Iris Pfister Pascoal 💛
+Anna Júlia de Albuquerque Martins
+Ellen Mayumi Borges
+Felipe Neres Vieira
+Gabriel Tavares Vieira da Silva
+Gustavo Nascimento
+Guilherme dos Santos Matos
+Iris Pfister Pascoal
+Natália Santos Hernandez Rincão
 Victor Leandro da Silva
 
 Orientadores:  
