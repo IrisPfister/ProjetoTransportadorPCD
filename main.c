@@ -1,5 +1,5 @@
-#include <xc.h> 
-#include <delays.h> 
+#include <xc.h> //biblioteca que utilizamos para controlar o PIC
+#include <delays.h> //biblioteca que utilizamos para os delays no compilador
  
 void MOTORDESCE(); void MOTORSOBE(); void CABINEDESCE(); void CABINESOBE(); void EMERG(); 
  
@@ -239,3 +239,4 @@ void EMERG()
     return; 
 
 }  
+
