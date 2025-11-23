@@ -1,7 +1,7 @@
 <div align="center">
 
 # ♿ Transportador de Cadeirantes em Escadas  
-### / Staircase Wheelchair Lift System
+### / Wheelchair Stair Lift System
 
 🌍 README disponível em:  
 [🇧🇷 Português](#-sobre-o-projeto) | [🇺🇸 English](#-about-the-project)
